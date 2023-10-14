@@ -1,3 +1,5 @@
+Full text access to preprint at bioRxiv: https://doi.org/10.1101/2021.08.08.455554
+
 # A Multiscale Spatial Modeling Framework for the Germinal Center Response
 
 Derek P. Mu1, Christopher D. Scharer2, Norbert E. Kaminski3, and Qiang Zhang4* 
