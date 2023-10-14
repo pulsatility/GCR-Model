@@ -1,4 +1,4 @@
-A Multiscale Spatial Modeling Framework for the 
+# A Multiscale Spatial Modeling Framework for the 
 Germinal Center Response
 
 Derek P. Mu1, Christopher D. Scharer2, Norbert E. Kaminski3, and Qiang Zhang4* 
