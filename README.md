@@ -1,7 +1,7 @@
 Full-text access to bioRxiv preprint: https://biorxiv.org/cgi/content/short/2024.01.26.577491v1
-
+<p align="center">
 # A Multiscale Spatial Modeling Framework for the Germinal Center Response
-
+</p>
 Derek P. Mu<sup>1</sup>, Christopher D. Scharer<sup>2</sup>, Norbert E. Kaminski<sup>3</sup>, and Qiang Zhang<sup>4</sup> 
 
 1. Montgomery Blair High School, Silver Spring, MD 20901, USA
