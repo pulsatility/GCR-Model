@@ -1,4 +1,4 @@
-Full-text access to bioRxiv preprint: https://www.biorxiv.org/... (full link to be provided)
+Full-text access to bioRxiv preprint: https://biorxiv.org/cgi/content/short/2024.01.26.577491v1
 
 # A Multiscale Spatial Modeling Framework for the Germinal Center Response
 
