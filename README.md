@@ -6,7 +6,7 @@ Derek P. Mu1, Christopher D. Scharer2, Norbert E. Kaminski3, and Qiang Zhang4*
 
 1. Montgomery Blair High School, Silver Spring, MD 20901, USA
 
-2. Department of Microbiology and Immunology and the Emory Vaccine Center, School of Medicine, Emory University, Atlanta, GA 30322, USA
+2. Department of Microbiology and Immunology, School of Medicine, Emory University, Atlanta, GA 30322, USA
 
 3. Department of Pharmacology & Toxicology, Institute for Integrative Toxicology, Michigan State University, East Lansing, Michigan 48824, USA
 
